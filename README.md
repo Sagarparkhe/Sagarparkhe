@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarparkhe&label=Profile%20views&color=0e75b6&style=flat" alt="sagarparkhe" /> </p>
 
-- 🌱 I’m currently learning **Excel, Power BI, SQL**
+- 🌱 I’m currently learning **Excel, Power BI, SQL, Python**
 
 - 📫 How to reach me **sagarparkhe95@gmail.com**
 
